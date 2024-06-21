@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+}
+
+/* .grid-container {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto auto auto;
+    gap: 0px;
+    padding: 0px;
+    background-color: rosybrown;
+    margin: 0px;
+    height: 34px;
+    border-radius: "0px";
+  }
+
+  .grid-container > Button {
+    display: flex;
+    justify-content: center;
+    gap: 0px;
+    padding: 0px;
+    border-radius: "0px";
+  }
+
+.GridRow {
+  gap: 0px;
+  padding: 0px;
+  justify-content: center;
+  margin: 0px;
+}
+
+.GridColumn {
+  gap: 0px;
+  padding: 0px;
+  justify-content: center;
+  margin: 0px;
+}
+
+.Button {
+  background-color: green ;
+  margin: 0px;
+  padding: 0px;
+  border-radius: "0px";
+}
+
+.GridButton {
+  background-color: #fff;
+  border: 1px solid #999;
+  float: left;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 34px;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  width: 34px;
+  height: 34px;
+  border-radius: "0px"
+} */
+
+.Square {
+  border-radius: "0px";
+  display: flex;
+  justify-content: center;
+  background-color: #bb9494;
+  font-size: 100px;
+  font-weight: bold;
+  margin: 0px;
+  padding: 0px;
+  width: 150px;
+  height: 150px;
+  flex-wrap: wrap;
+  align-content: center;
+  border: 1px solid black;
+}
+
